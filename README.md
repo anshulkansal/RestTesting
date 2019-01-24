@@ -1,4 +1,4 @@
-# TEeting using Rest Assured
+# Testing using Rest Assured
 
 -Testing and validating REST services in Java is harder than Groovy.
 -Rest-Assured begins he simplicity of using these languages into Java domain.
